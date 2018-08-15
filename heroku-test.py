@@ -31,9 +31,9 @@
 #-redesign syntax
 #####################################################################################################################
 users_data = {}
-vip_developer = ['VIP_DEV']
-channel_id = ['CHANNEL_ID']
-group_id = [GROUP_ID]
+vip_developer = 293125876
+channel_id = 1383113458
+group_id = -1001135607371
 #Importing Modules
 try:
     import os, telegram, time, sys, logging
@@ -48,7 +48,7 @@ except ImportError as e:
 #Bot Data (Please insert bot token here!)
 namebot = 'GOOP TEST BOT'
 verbot  = 'v1' #<== You can change this version with your real bot version
-tokenbot= ['TOKEN'] #<-- Put your bot token here!
+tokenbot= '676582608:AAFfxPfbywkMcAQZ3hyFO-jQ_sCvBFTCC-U' #<-- Put your bot token here!
 
 #polling setup
 try:
